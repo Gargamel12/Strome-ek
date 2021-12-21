@@ -17,7 +17,7 @@
     <Grid>
         <Image Source="Images/bum.jpg"/>
         <Image Name="B01" HorizontalAlignment="Left"  Height="48" Margin=" 462,150,0,0"/>
-        <Image RenderTransformOrigin="-0.709,0.014" Source="Images/h-removebg-preview.png" Margin="335,157,434,249"/>
+        <Image RenderTransformOrigin="-0.709,0.014" Source="Images/h-removebg-preview.png" Margin="335,157,434,249"/> 
         <Image Source="/koule-removebg-preview.png" RenderTransformOrigin="0.5,0.5" Margin="424,253,333,133">
             <Image.RenderTransform>
                 <TransformGroup>

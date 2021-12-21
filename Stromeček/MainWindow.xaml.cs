@@ -35,7 +35,11 @@ namespace Stromeček
             Random random = new Random();
             int cislo = random.Next(0, 3);
             if (cislo == 0)
+            {
+                B01.Source = (ImageSource)FindResource("h");
+            }
+            else if (cislo ==1)
             { 
-                h.Source = (ImageSource) FindResource
+                B01.Source = ()
     }
 }
